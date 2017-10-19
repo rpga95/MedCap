@@ -1,0 +1,4 @@
+- Removed SimbleeForMobile
+- Added SimbleeBLE connection to BT device
+- Communicates with ionic app and transfers the data to the app via a 15B message since the MTU for BLE is 20B
+- Check differences between v1.1.1 and v1.2 for full diff

@@ -1,0 +1,1 @@
+This is the original working version of the code. A serial monitor or serial plotter is required to visualize the data. Change all library paths in the code to the path you use on your computer (where you will be putting these files).
